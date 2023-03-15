@@ -1,0 +1,15 @@
+C:\Users\Kirk\Documents\KnowledgeCheck_2\KnowledgeCheck_2\bin\Debug\net7.0\KnowledgeCheck_2.exe
+C:\Users\Kirk\Documents\KnowledgeCheck_2\KnowledgeCheck_2\bin\Debug\net7.0\KnowledgeCheck_2.deps.json
+C:\Users\Kirk\Documents\KnowledgeCheck_2\KnowledgeCheck_2\bin\Debug\net7.0\KnowledgeCheck_2.runtimeconfig.json
+C:\Users\Kirk\Documents\KnowledgeCheck_2\KnowledgeCheck_2\bin\Debug\net7.0\KnowledgeCheck_2.dll
+C:\Users\Kirk\Documents\KnowledgeCheck_2\KnowledgeCheck_2\bin\Debug\net7.0\KnowledgeCheck_2.pdb
+C:\Users\Kirk\Documents\KnowledgeCheck_2\KnowledgeCheck_2\obj\Debug\net7.0\KnowledgeCheck_2.csproj.AssemblyReference.cache
+C:\Users\Kirk\Documents\KnowledgeCheck_2\KnowledgeCheck_2\obj\Debug\net7.0\KnowledgeCheck_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kirk\Documents\KnowledgeCheck_2\KnowledgeCheck_2\obj\Debug\net7.0\KnowledgeCheck_2.AssemblyInfoInputs.cache
+C:\Users\Kirk\Documents\KnowledgeCheck_2\KnowledgeCheck_2\obj\Debug\net7.0\KnowledgeCheck_2.AssemblyInfo.cs
+C:\Users\Kirk\Documents\KnowledgeCheck_2\KnowledgeCheck_2\obj\Debug\net7.0\KnowledgeCheck_2.csproj.CoreCompileInputs.cache
+C:\Users\Kirk\Documents\KnowledgeCheck_2\KnowledgeCheck_2\obj\Debug\net7.0\KnowledgeCheck_2.dll
+C:\Users\Kirk\Documents\KnowledgeCheck_2\KnowledgeCheck_2\obj\Debug\net7.0\refint\KnowledgeCheck_2.dll
+C:\Users\Kirk\Documents\KnowledgeCheck_2\KnowledgeCheck_2\obj\Debug\net7.0\KnowledgeCheck_2.pdb
+C:\Users\Kirk\Documents\KnowledgeCheck_2\KnowledgeCheck_2\obj\Debug\net7.0\KnowledgeCheck_2.genruntimeconfig.cache
+C:\Users\Kirk\Documents\KnowledgeCheck_2\KnowledgeCheck_2\obj\Debug\net7.0\ref\KnowledgeCheck_2.dll
